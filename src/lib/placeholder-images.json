@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "avatar-1",
+      "description": "User avatar 1",
+      "imageUrl": "https://picsum.photos/seed/avatar1/100/100",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "avatar-2",
+      "description": "User avatar 2",
+      "imageUrl": "https://picsum.photos/seed/avatar2/100/100",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "avatar-3",
+      "description": "User avatar 3",
+      "imageUrl": "https://picsum.photos/seed/avatar3/100/100",
+      "imageHint": "person nature"
+    },
+    {
+      "id": "avatar-4",
+      "description": "User avatar 4",
+      "imageUrl": "https://picsum.photos/seed/avatar4/100/100",
+      "imageHint": "woman sunglasses"
+    },
+    {
+      "id": "avatar-5",
+      "description": "User avatar 5",
+      "imageUrl": "https://picsum.photos/seed/avatar5/100/100",
+      "imageHint": "man glasses"
+    },
+    {
+      "id": "glance-1",
+      "description": "Glance image 1",
+      "imageUrl": "https://picsum.photos/seed/glance1/600/400",
+      "imageHint": "mountain landscape"
+    },
+    {
+      "id": "glance-2",
+      "description": "Glance image 2",
+      "imageUrl": "https://picsum.photos/seed/glance2/600/800",
+      "imageHint": "city street"
+    },
+    {
+      "id": "glance-3",
+      "description": "Glance image 3",
+      "imageUrl": "https://picsum.photos/seed/glance3/800/600",
+      "imageHint": "delicious food"
+    },
+    {
+      "id": "glance-4",
+      "description": "Glance image 4",
+      "imageUrl": "https://picsum.photos/seed/glance4/600/600",
+      "imageHint": "abstract art"
+    }
+  ]
+}
